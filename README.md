@@ -1,10 +1,10 @@
 ### Guilherme Cirelli Lopes 
 ### Sobre mim
 Sou um profissional de TI de 19 anos, gosto de resolver problemas, tenho um forte desejo de aprender e sou apaixonado em tecnologia. Meu objetivo é crescer profissionalmente na area de Ti.
-### Formação
-Análise e Desenvolvimento de Sistemas (03/05)
+### Formação Acadêmica
+Ensino superior na Faculdade UniCesumar.
 
-Faculdade UniCesumar.
+Análise e Desenvolvimento de Sistemas (03/05)
 ### Experiência Profissional        
 -A.Yoshii Engenharia (Assistente De TI) Jan 2025 - presente.
 
