@@ -1,4 +1,10 @@
 ### Guilherme Cirelli Lopes 
+### Perfil 
+Linkedin-> Guicirelli
+
+Whatsapp-> 43 9 9999-9999
+
+Email-> ----------.com
 ### Sobre mim
 Sou um profissional de TI de 19 anos, gosto de resolver problemas, tenho um forte desejo de aprender e sou apaixonado em tecnologia. Meu objetivo é crescer profissionalmente na area de Ti.
 ### Formação Acadêmica
