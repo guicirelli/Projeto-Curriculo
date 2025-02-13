@@ -1,6 +1,6 @@
 ### Guilherme Cirelli Lopes 
 ### Sobre mim
-Gosto de resolver problemas e tenho umforte desejo de aprender. Meu objetivo écrescer profissionalmente na area de Ti.
+Gosto de resolver problemas e tenho um forte desejo de aprender. Meu objetivo é crescer profissionalmente na area de Ti.
 ### Formação
 Análise e Desenvolvimento de Sistemas (03/05)
 Faculdade Unicesumar.
