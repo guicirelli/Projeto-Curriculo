@@ -1,9 +1,11 @@
 ### Guilherme Cirelli Lopes 
+Profissional de TI.
 ### Sobre mim
 Gosto de resolver problemas e tenho um forte desejo de aprender. Meu objetivo é crescer profissionalmente na area de Ti.
 ### Formação
 Análise e Desenvolvimento de Sistemas (03/05)
-Faculdade Unicesumar.
+
+Faculdade UniCesumar.
 ### Experiência Profissional        
 -A.Yoshii Engenharia (Assistente De TI) Jan 2025 - presente.
 
