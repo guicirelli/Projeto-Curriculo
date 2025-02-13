@@ -11,6 +11,6 @@ Faculdade Unicesumar.
 
 -Super Muffato (Operador de caixa) Fev 2024 - jul 202.
 ### Soft Skills
-Resolução de problemas. Boa comunicação. Trabalho em equipe. Organização. Aprendizagem contínua.
+| Resolução de problemas | Boa comunicação | Trabalho em equipe | Organização | Aprendizagem contínua |
 ### Perfil Linkedin 
 -> Guicirelli
